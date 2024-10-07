@@ -1,0 +1,4 @@
+- Crear la funcionalidad cerrar sesion
+- Implementar que a los 60 segundos cierre sesion
+- Crear la pantalla de registro
+- Registar las sesiones en una base de datos oracle
